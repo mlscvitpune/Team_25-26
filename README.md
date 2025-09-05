@@ -85,7 +85,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Nilesh Sabale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Alesha Mulla | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Abhishek Saraf | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Kaivalya Beohar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Kaivalya Beohar | Coordinator  | [GitHub](https://github.com/kohesee) | [LinkedIn](https://www.linkedin.com/in/kaivalya-beohar/) | [Twitter](https://x.com/kohese) | [Codolio](https://codolio.com/profile/kohese) |
 
 
 ---
