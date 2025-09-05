@@ -61,7 +61,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **Ayush Srivastava** | **Lead**   | [**GitHub**](https://github.com/ayushsrivastava55) | [**LinkedIn**](https://www.linkedin.com/in/ayushsrivastava-codes/) | [**Twitter**](https://x.com/localhost_ayush) | [**Protfolio**](https://portfolio-ayush-iota.vercel.app) |
+| **Ayush Srivastava** | **Lead**   | [**GitHub**](https://github.com/ayushsrivastava55) | [**LinkedIn**](https://www.linkedin.com/in/ayushsrivastava-codes/) | [**Twitter**](https://x.com/localhost_ayush) | [**Portfolio**](https://portfolio-ayush-iota.vercel.app) |
 | Shreyas Sovani | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Swanandi Bhende | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Prajwal Bhosale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
@@ -204,6 +204,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Prajwal Gidde | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pragati Sharma | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Shrushti Ippalpalli | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Vaishnavi Nile | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 
 ---
