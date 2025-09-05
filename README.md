@@ -74,7 +74,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ---
 
-### Mobile Application Development
+### App Development
 
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
