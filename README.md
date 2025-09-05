@@ -50,6 +50,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Srujal Vispute | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Sanskruti Sathe | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Vikrant Thakur | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Diya Wani | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 
 
