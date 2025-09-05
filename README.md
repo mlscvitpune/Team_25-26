@@ -100,7 +100,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Mayenk Joshi** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | **Yash Gunjal** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
-| Pratyay Patel | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Pratyay Patel | Coordinator  | [GitHub](https://github.com/Pratyay-Patel) | [LinkedIn](https://www.linkedin.com/in/pratyay-patel-9aa7672a3/) | [Twitter](https://x.com/Pratyay_17) | [LeetCode](https://leetcode.com/u/s40JX5K7fp/) |
 | Ameya Borkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Aryan Ghadekar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Vanshika Pandey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
