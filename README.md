@@ -24,9 +24,9 @@ Welcome to the MLSC Team 2025-2026 repository! This document provides an overvie
 
 We cover a wide range of domains to ensure comprehensive expertise and support for various projects and initiatives. Below are the domains we specialize in:
 
-1. Web Development
+1. Web Dev
 2. Web 3.0
-3. Mobile Application Development
+3. App Dev
 4. AI/ML
 5. Cloud Computing
 6. Multimedia
