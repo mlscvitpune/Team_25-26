@@ -127,7 +127,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **Manas Kshirsagar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Manas Kshirsagar** | **Lead**   | [**GitHub**](https://github.com/MaxVon89) | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | Apurva Sidhawar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Gaurav Tiple | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Krushna Gavhane | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
