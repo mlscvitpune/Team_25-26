@@ -50,7 +50,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Srujal Vispute | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Sanskruti Sathe | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Vikrant Thakur | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Diya Wani | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+
 
 
 
@@ -74,7 +74,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ---
 
-### Mobile Application Development
+### App Development
 
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
@@ -85,7 +85,10 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Nilesh Sabale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Alesha Mulla | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Abhishek Saraf | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Kaivalya Beohar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Kaivalya Beohar | Coordinator  | [GitHub](https://github.com/kohesee) | [LinkedIn](https://www.linkedin.com/in/kaivalya-beohar/) | [Twitter](https://x.com/kohese) | [Codolio](https://codolio.com/profile/kohese) |
+| Ruhan Sande | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+
+
 
 
 ---
@@ -102,6 +105,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Aryan Ghadekar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Vanshika Pandey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Anand Nair | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Diya Wani | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 ---
 
@@ -117,6 +121,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Anup Dubey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Mustafa Nazir | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Siddhartha Kushwaha | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Omkar Patil | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 
 
@@ -170,7 +175,8 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Parth Sardeshmukh | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Madhav Baviskar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Indrajeet Badhel | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-
+| Yuganti Hatwar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Shrisha Goski | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 
 
@@ -187,6 +193,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Srishti Gupta | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Varad Rathor | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Miti Agarwal | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Rehan Momin | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 
 ---
