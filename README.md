@@ -203,7 +203,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **Hardik Rokde** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Hardik Rokde** | **Lead**   | [**GitHub**](https://github.com/Hardik174) | [**LinkedIn**](https://www.linkedin.com/in/hardik-rokde-844a6528a/) | [**Twitter**](https://x.com/Hardik_Rokde17) | [**Other Links**]() |
 | **Rohit Jadhav** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | Ishan Pande | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Aryan Choudhari | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
