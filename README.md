@@ -9,7 +9,7 @@ Welcome to the MLSC Team 2025-2026 repository! This document provides an overvie
 
 | Name | Role | GitHub | LinkedIn | Twitter | Other Links |
 |------|------|--------|----------|---------|-------------|
-| Samiksha Solanke | President | [GitHub](https://github.com/SamikshaSolanke) | [LinkedIn](https://www.linkedin.com/in/samiksha-solanke-1611342ba/) | [Twitter]() | |
+| Samiksha Solanke | President | [GitHub](https://github.com/SamikshaSolanke) | [LinkedIn](https://www.linkedin.com/in/samiksha-solanke-1611342ba/) | [Twitter]() | [LeetCode](https://leetcode.com/u/samiksha_05/) |
 | Ishaan Chepurwar | Vice President | [GitHub](https://github.com/Ish81) | [LinkedIn](https://www.linkedin.com/in/ishaan-chepurwar-6a9b98293/) | [Twitter]() |  |
 | Purvi Solanki | Treasurer | [GitHub](https://github.com/Purvi-Solanki) | [LinkedIn](https://linkedin.com/in/purvi-solanki-bb5312288/) | [Twitter]() |
 | Tanishka Singh | Technical Head | [GitHub](https://github.com/Tanishka-Singh05) | [LinkedIn](https://www.linkedin.com/in/tanishka-singh-793895291) | [Twitter](https://x.com/tanishkaah_here) | [Portfolio](https://tanishka-blossom-zsb7.vercel.app/) |
@@ -24,9 +24,9 @@ Welcome to the MLSC Team 2025-2026 repository! This document provides an overvie
 
 We cover a wide range of domains to ensure comprehensive expertise and support for various projects and initiatives. Below are the domains we specialize in:
 
-1. Web Development
+1. Web Dev
 2. Web 3.0
-3. Mobile Application Development
+3. App Dev
 4. AI/ML
 5. Cloud Computing
 6. Multimedia
@@ -204,6 +204,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Prajwal Gidde | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pragati Sharma | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Shrushti Ippalpalli | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Vaishnavi Nile | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 
 ---
