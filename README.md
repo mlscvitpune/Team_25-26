@@ -47,7 +47,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Tanishq Thuse** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | Aditya Bavadekar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Sukhada Raut | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Srujal Vispute | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Srujal Vispute | Coordinator  | [GitHub](https://github.com/Srujal29) | [LinkedIn](www.linkedin.com/in/srujal-vispute-853754318) | [Twitter]() | [Other Links](https://leetcode.com/u/srujal29/) |
 | Sanskruti Sathe | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Vikrant Thakur | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
