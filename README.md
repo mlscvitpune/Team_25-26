@@ -118,7 +118,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Animesh Nilawar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | **Adwyte Karandikar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | Ayush Andure | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Anup Dubey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Anup Dubey | Coordinator  | [GitHub](https://github.com/Anup1dubey) | [LinkedIn](https://www.linkedin.com/in/anup-dubey-646433328/) | [Twitter](https://x.com/AnupDubey680002) | [Other Links](https://leetcode.com/u/Anupdubey/) |
 | Mustafa Nazir | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Siddhartha Kushwaha | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Omkar Patil | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
