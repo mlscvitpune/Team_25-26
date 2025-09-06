@@ -157,7 +157,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Abhijit Barad | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Alisha Savant | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pratham Shelke | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Arnav Gharpure | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Arnav Gharpure | Coordinator  | [GitHub](https://github.com/007Arnav007) | [LinkedIn](www.linkedin.com/in/arnav-gharpure-007x007) | [Twitter]() | [Other Links](https://arnavwritesgood.blogspot.com/) |
 
 
 ---
