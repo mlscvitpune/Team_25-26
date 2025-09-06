@@ -120,7 +120,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Ayush Andure | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Anup Dubey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Mustafa Nazir | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Siddhartha Kushwaha | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Siddhartha Kushwaha | Coordinator  | [GitHub](https://github.com/DevSidd2006) | [LinkedIn](https://www.linkedin.com/in/siddhartha-kushwaha-2649bb334/) | [Twitter](https://x.com/arcane__coder) | [LeetCode](https://leetcode.com/u/dev_Siddhartha_Kushwaha/) |
 | Omkar Patil | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 
