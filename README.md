@@ -80,7 +80,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Krishna Sadar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
-| **Ninad Belorkar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Ninad Belorkar** | **Lead**   | [**GitHub**](https://github.com/ninadbelorkar) | [**LinkedIn**](www.linkedin.com/in/ninadbelorkar) | [**Twitter**](https://x.com/ninadbelorkar?t=y4r3cf6MMCL2UuGTrqeJeQ&s=08) | |
 | Ajinkya Ghule | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Nilesh Sabale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Alesha Mulla | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
