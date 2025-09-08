@@ -188,7 +188,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Atharv Nawal** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
-| **Isha Thakur** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Isha Thakur** | **Lead**   | [**GitHub**](https://github.com/isha1234567891) | [**LinkedIn**](linkedin.com/in/isha-thakur-308778293) | [**Twitter**]() | [**Other Links**]() |
 | Tanvi Dumbre | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Srishti Gupta | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Varad Rathor | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
