@@ -79,7 +79,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **Krishna Sadar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Krishna Sadar** | **Lead**   | [**GitHub**](https://github.com/KrishnaSadar) | [**LinkedIn**](https://www.linkedin.com/in/krishna-sadar-7238682b3/) | [**Twitter**]() | [**Codeforces**](https://codeforces.com/profile/IamDragonite) |
 | **Ninad Belorkar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | Ajinkya Ghule | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Nilesh Sabale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
