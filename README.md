@@ -104,7 +104,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **Mayenk Joshi** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Mayenk Joshi** | **Lead**   | [**GitHub**](https://github.com/MayenkJoshi37) | [**LinkedIn**](https://www.linkedin.com/in/mayenk-joshi) | [**Twitter**]() | [**Other Links**]() |
 | **Yash Gunjal** | **Lead**   | [**GitHub**](https://github.com/yashgunjal95) | [**LinkedIn**](https://www.linkedin.com/in/yash-gunjal-473422288/) | [**Twitter**]() | [**Other Links**]() |
 | Pratyay Patel | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Ameya Borkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
