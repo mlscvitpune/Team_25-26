@@ -212,7 +212,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Prajwal Gidde | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pragati Sharma | Coordinator  | [GitHub](https://github.com/pragatisharma723) | [LinkedIn](https://www.linkedin.com/in/pragati-sharma-ab5a80330/)  | [Twitter]() | [Other Links]() |
 | Shrushti Ippalpalli | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Vaishnavi Nile | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Vaishnavi Nile | Coordinator  | [GitHub](https://github.com/VaishnaviNile) | [LinkedIn](https://www.linkedin.com/in/vaishnavi-nile-b715b3326) | [Twitter]() | [Other Links]() |
 
 
 ---
