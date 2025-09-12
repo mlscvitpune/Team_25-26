@@ -145,7 +145,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Krushna Gavhane | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Ninad Kale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Sahil Jadhav | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Sneha Laddha | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Sneha Laddha | Coordinator  | [GitHub](https://github.com/Artycooler) | [LinkedIn](https://www.linkedin.com/in/sneha-laddha-365729329/) | [Twitter]() | [Other Links]() |
 | Pranav Bhoyate | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Shahebaz Shaikh | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
