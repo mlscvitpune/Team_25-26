@@ -122,7 +122,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Animesh Nilawar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | **Adwyte Karandikar** | **Lead**   | [**GitHub**](https://github.com/adwyte) | [**LinkedIn**](https://linkedin.com/in/adwyte) | [**Twitter**](https://x.com/adwyte05) | [**Portfolio**](https://adwyte.vercel.app) |
 | Ayush Andure | Coordinator  | [GitHub](https://github.com/ayushhhhyqxv) | [LinkedIn](www.linkedin.com/in/ayush-andure-812670328) | [Twitter](https://x.com/_Ayush29) | [GitLab](https://gitlab.com/ayushhhhyqxv) |
-| Anup Dubey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Anup Dubey | Coordinator  | [GitHub](https://github.com/Anup1dubey) | [LinkedIn](https://www.linkedin.com/in/anup-dubey-646433328/) | [Twitter](https://x.com/AnupDubey680002) | [Leetcode](https://leetcode.com/u/Anupdubey/) |
 | Mustafa Nazir | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Siddhartha Kushwaha | Coordinator  | [GitHub](https://github.com/DevSidd2006) | [LinkedIn](https://www.linkedin.com/in/siddhartha-kushwaha-2649bb334/) | [Twitter](https://x.com/arcane__coder) | [LeetCode](https://leetcode.com/u/dev_Siddhartha_Kushwaha/) |
 | Omkar Patil | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
