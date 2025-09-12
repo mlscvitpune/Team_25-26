@@ -86,8 +86,6 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Ajinkya Ghule | Coordinator  | [GitHub](https://github.com/GhuleAjinkya) | [LinkedIn](https://www.linkedin.com/in/ajinkya-ghule-90b83a329/) | [Twitter]() | [Other Links]() |
 | Nilesh Sabale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Alesha Mulla | Coordinator  | [GitHub](https://github.com/muggloaf) | [LinkedIn](https://www.linkedin.com/in/alesha-mulla-263827329/) | [Twitter]() | [Instagram](https://www.instagram.com/alesha.gif/) |
-| Abhishek Saraf | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Alesha Mulla | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Abhishek Saraf | Coordinator  | [GitHub](https://github.com/abhi-dev99) | [LinkedIn](https://www.linkedin.com/in/abhishek--saraf/) | [Twitter]() | [Instagram](https://www.instagram.com/abhi.____.s) |
 | Kaivalya Beohar | Coordinator  | [GitHub](https://github.com/kohesee) | [LinkedIn](https://www.linkedin.com/in/kaivalya-beohar/) | [Twitter](https://x.com/kohese) | [Codolio](https://codolio.com/profile/kohese) |
 | Ruhan Sande | Coordinator  | [GitHub](https://github.com/Ruhdee) | [LinkedIn](https://www.linkedin.com/in/ruhaan-sande-566030313) | [Twitter](https://x.com/Ruhaan_64) | [Leetcode](https://leetcode.com/u/Ruhaan_S/) |
@@ -214,11 +212,8 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Aditya Chimurkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pranav Kamble | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Prajwal Gidde | Coordinator  | [GitHub](https://github.com/Prajwal-Gidde) | [LinkedIn](www.linkedin.com/in/prajwal-gidde-222649383) | [Twitter]() | [Other Links]() |
-| Pragati Sharma | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Shrushti Ippalpalli | Coordinator  | [GitHub](https://github.com/srushtiipp) | [LinkedIn](www.linkedin.com/in/ippalpallisrushti) | [Twitter](https://x.com/Srushti19489) | [Other Links]() |
-| Vaishnavi Nile | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pragati Sharma | Coordinator  | [GitHub](https://github.com/pragatisharma723) | [LinkedIn](https://www.linkedin.com/in/pragati-sharma-ab5a80330/)  | [Twitter]() | [Other Links]() |
-| Shrushti Ippalpalli | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Vaishnavi Nile | Coordinator  | [GitHub](https://github.com/VaishnaviNile) | [LinkedIn](https://www.linkedin.com/in/vaishnavi-nile-b715b3326) | [Twitter]() | [Other Links]() |
 
 
