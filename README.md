@@ -104,7 +104,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Ameya Borkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Aryan Ghadekar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Vanshika Pandey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Anand Nair | Coordinator  | [GitHub](https://github.com/Anand-2006/) | [LinkedIn](https://www.linkedin.com/in/heyy-anand-here/) | [HackerRank](https://www.hackerrank.com/profile/anandnair2626) |
+| Anand Nair | Coordinator  | [GitHub](https://github.com/Anand-2006/) | [LinkedIn](https://www.linkedin.com/in/heyy-anand-here/) |  [Twitter]() | [HackerRank](https://www.hackerrank.com/profile/anandnair2626) |
 | Diya Wani | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 ---
