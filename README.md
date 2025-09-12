@@ -49,9 +49,12 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Aditya Bavadekar | Coordinator  | [GitHub](https://github.com/AdityaBavadekar/) | [LinkedIn](https://www.linkedin.com/in/adityabavadekar/) | [Twitter](https://x.com/sshaditya) | [Hugging Face](https://huggingface.co/AdityaBavadekar) |
 | Sukhada Raut | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Srujal Vispute | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Sanskruti Sathe | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Vikrant Thakur | Coordinator  | [GitHub](https://github.com/Vikrant-K-Thakur) | [LinkedIn](https://www.linkedin.com/in/vikrant-thakur-043279362/) | [Twitter]() | [Other Links]() |
 | Sanskruti Sathe | Coordinator  | [GitHub](https://github.com/sanscraftscodes) | [LinkedIn](https://www.linkedin.com/in/sanskruti-sathe-527253379/) | [Twitter]() | [Other Links]() |
 | Vikrant Thakur | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Prashik Sasane | Coordinator  | [GitHub](https://github.com/Prashik-Sasane) | [LinkedIn](https://www.linkedin.com/in/prashik-sasane-2545b12b1/) | [Twitter](https://x.com/SasanePrashik) | [Other Links]() |
+
 
 
 
