@@ -82,7 +82,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Krishna Sadar** | **Lead**   | [**GitHub**](https://github.com/KrishnaSadar) | [**LinkedIn**](https://www.linkedin.com/in/krishna-sadar-7238682b3/) | [**Twitter**]() | [**Codeforces**](https://codeforces.com/profile/IamDragonite) |
 | **Ninad Belorkar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
-| Ajinkya Ghule | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Ajinkya Ghule | Coordinator  | [GitHub](https://github.com/GhuleAjinkya) | [LinkedIn](https://www.linkedin.com/in/ajinkya-ghule-90b83a329/) | [Twitter]() | [Other Links]() |
 | Nilesh Sabale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Alesha Mulla | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Abhishek Saraf | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
