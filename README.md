@@ -46,7 +46,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Neeraj Pathak** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
 | **Tanishq Thuse** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
-| Aditya Bavadekar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Aditya Bavadekar | Coordinator  | [GitHub](https://github.com/AdityaBavadekar/) | [LinkedIn](https://www.linkedin.com/in/adityabavadekar/) | [Twitter](https://x.com/sshaditya) | [Hugging Face](https://huggingface.co/AdityaBavadekar) |
 | Sukhada Raut | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Srujal Vispute | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Sanskruti Sathe | Coordinator  | [GitHub](https://github.com/sanscraftscodes) | [LinkedIn](https://www.linkedin.com/in/sanskruti-sathe-527253379/) | [Twitter]() | [Other Links]() |
