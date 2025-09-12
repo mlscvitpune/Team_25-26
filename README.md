@@ -116,7 +116,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Animesh Nilawar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
-| **Adwyte Karandikar** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Adwyte Karandikar** | **Lead**   | [**GitHub**](https://github.com/adwyte) | [**LinkedIn**](https://linkedin.com/in/adwyte) | [**Twitter**](https://x.com/adwyte05) | [**Portfolio**](https://adwyte.vercel.app) |
 | Ayush Andure | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Anup Dubey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Mustafa Nazir | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
