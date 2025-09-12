@@ -1,3 +1,4 @@
+
 # MLSC Team 25-26
 
 Welcome to the MLSC Team 2025-2026 repository! This document provides an overview of our team members and the various domains we specialize in.
@@ -209,7 +210,10 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Aryan Choudhari | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Aditya Chimurkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pranav Kamble | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Prajwal Gidde | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Prajwal Gidde | Coordinator  | [GitHub](https://github.com/Prajwal-Gidde) | [LinkedIn](www.linkedin.com/in/prajwal-gidde-222649383
+
+www.linkedin.com/in/prajwal-gidde-222649383
+) | [Twitter]() | [Other Links]() |
 | Pragati Sharma | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Shrushti Ippalpalli | Coordinator  | [GitHub](https://github.com/srushtiipp) | [LinkedIn](www.linkedin.com/in/ippalpallisrushti) | [Twitter](https://x.com/Srushti19489) | [Other Links]() |
 | Vaishnavi Nile | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
