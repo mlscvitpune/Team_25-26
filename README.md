@@ -206,7 +206,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Hardik Rokde** | **Lead**   | [**GitHub**](https://github.com/Hardik174) | [**LinkedIn**](https://www.linkedin.com/in/hardik-rokde-844a6528a/) | [**Twitter**](https://x.com/Hardik_Rokde17) | [**Other Links**]() |
-| **Rohit Jadhav** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Rohit Jadhav** | **Lead**   | [**GitHub**](https://github.com/rohitjad2k5) | [**LinkedIn**](https://www.linkedin.com/in/rohit-jadhav-712013318/) | [**Twitter**]() | [**Other Links**]() |
 | Ishan Pande | Coordinator  | [GitHub](https://github.com/Ishan070506) | [LinkedIn](https://www.linkedin.com/in/ishan-pande-b530a532a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [Twitter](https://x.com/ishanpande76431?s=21) | [Other Links]() |
 | Aryan Choudhari | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Aditya Chimurkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
