@@ -69,7 +69,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Swanandi Bhende | Coordinator  | [GitHub](https://github.com/swanandi-bhende) | [LinkedIn](https://www.linkedin.com/in/swanandibhende/) | [Twitter](https://x.com/swanandibhende) | [Other Links]() |
 | Prajwal Bhosale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Kunal Bavdhane | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Kavyanjali Gavate | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Kavyanjali Gavate | Coordinator  | [GitHub](https://github.com/kavyaaa55) | [LinkedIn](linkedin.com/in/kavyanjali-gavate-7a7900315) | [Twitter]() | [Other Links]() |
 
 
 
