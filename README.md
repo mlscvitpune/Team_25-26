@@ -104,7 +104,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Yash Gunjal** | **Lead**   | [**GitHub**](https://github.com/yashgunjal95) | [**LinkedIn**](https://www.linkedin.com/in/yash-gunjal-473422288/) | [**Twitter**]() | [**Other Links**]() |
 | Pratyay Patel | Coordinator  | [GitHub](https://github.com/Pratyay-Patel) | [LinkedIn](https://www.linkedin.com/in/pratyay-patel-9aa7672a3/) | [Twitter](https://x.com/Pratyay_17) | [LeetCode](https://leetcode.com/u/s40JX5K7fp/) |
 | Ameya Borkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Aryan Ghadekar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Aryan Ghadekar | Coordinator  | [GitHub](https://github.com/Aryan-Ghadekar) | [LinkedIn](www.linkedin.com/in/aryan-ghadekar-11417a312) | [Twitter]() | [Other Links]() |
 | Vanshika Pandey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Anand Nair | Coordinator  | [GitHub](https://github.com/Anand-2006/) | [LinkedIn](https://www.linkedin.com/in/heyy-anand-here/) |  [Twitter]() | [HackerRank](https://www.hackerrank.com/profile/anandnair2626) |
 | Diya Wani | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
