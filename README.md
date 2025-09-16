@@ -208,7 +208,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Ishan Pande | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Aryan Choudhari | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Aditya Chimurkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
-| Pranav Kamble | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Pranav Kamble | Coordinator  | [https://github.com/pranavhkamble]() | [https://www.linkedin.com/in/pranav-kamble-b40535331]() | [Twitter]() | [Other Links]() |
 | Prajwal Gidde | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pragati Sharma | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Shrushti Ippalpalli | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
