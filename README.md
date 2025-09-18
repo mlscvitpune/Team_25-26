@@ -155,7 +155,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **Ashvini Bhure** | **Lead**   | [**GitHub**](https://github.com/A01vini) | [**LinkedIn**](www.linkedin.com/in/ashvini-bhure-a1183a223 |) | [**Twitter**]() | [**Other Links**]() |
+| **Ashvini Bhure** | **Lead**   | [**GitHub**](https://github.com/A01vini) | [LinkedIn](www.linkedin.com/in/ashvini-bhure-a1183a223) | [**Twitter**]() | [**Other Links**]() |
 | Abhijit Barad | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Alisha Savant | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Pratham Shelke | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
