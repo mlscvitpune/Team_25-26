@@ -65,7 +65,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Ayush Srivastava** | **Lead**   | [**GitHub**](https://github.com/ayushsrivastava55) | [**LinkedIn**](https://www.linkedin.com/in/ayushsrivastava-codes/) | [**Twitter**](https://x.com/localhost_ayush) | [**Portfolio**](https://portfolio-ayush-iota.vercel.app) |
-| Shreyas Sovani | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Shreyas Sovani | Coordinator  | [GitHub](https://github.com/shreyas-sovani) | [LinkedIn](https://www.linkedin.com/in/sovanishreyas/) | [Twitter](https://x.com/sovanishreyas) | [Bento](https://bento.me/sovanishreyas) |
 | Swanandi Bhende | Coordinator  | [GitHub](https://github.com/swanandi-bhende) | [LinkedIn](https://www.linkedin.com/in/swanandibhende/) | [Twitter](https://x.com/swanandibhende) | [Other Links]() |
 | Prajwal Bhosale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Kunal Bavdhane | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
