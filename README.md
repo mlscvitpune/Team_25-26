@@ -84,7 +84,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | **Ninad Belorkar** | **Lead**   | [**GitHub**](https://github.com/ninadbelorkar) | [**LinkedIn**](https://www.linkedin.com/in/ninadbelorkar/) | [**Twitter**](https://x.com/ninadbelorkar?t=y4r3cf6MMCL2UuGTrqeJeQ&s=08) | [**Other Links**]() |
 | **Krishna Sadar** | **Lead**   | [**GitHub**](https://github.com/KrishnaSadar) | [**LinkedIn**](https://www.linkedin.com/in/krishna-sadar-7238682b3/) | [**Twitter**]() | [**Codeforces**](https://codeforces.com/profile/IamDragonite) |
 | Ajinkya Ghule | Coordinator  | [GitHub](https://github.com/GhuleAjinkya) | [LinkedIn](https://www.linkedin.com/in/ajinkya-ghule-90b83a329/) | [Twitter]() | [Other Links]() |
-| Nilesh Sabale | Coordinator  | [GitHub](https://github.com/nilesh-sabale) | [LinkedIn](www.linkedin.com/in/nilesh-sabale-687896259) | [Twitter]() | [Other Links]() |
+| Nilesh Sabale | Coordinator  | [GitHub](https://github.com/nilesh-sabale) | [LinkedIn](https://www.linkedin.com/in/nilesh-sabale-687896259) | [Twitter]() | [Other Links]() |
 | Alesha Mulla | Coordinator  | [GitHub](https://github.com/muggloaf) | [LinkedIn](https://www.linkedin.com/in/alesha-mulla-263827329/) | [Twitter]() | [Instagram](https://www.instagram.com/alesha.gif/) |
 | Abhishek Saraf | Coordinator  | [GitHub](https://github.com/abhi-dev99) | [LinkedIn](https://www.linkedin.com/in/abhishek--saraf/) | [Twitter]() | [Instagram](https://www.instagram.com/abhi.____.s) |
 | Kaivalya Beohar | Coordinator  | [GitHub](https://github.com/kohesee) | [LinkedIn](https://www.linkedin.com/in/kaivalya-beohar/) | [Twitter](https://x.com/kohese) | [Codolio](https://codolio.com/profile/kohese) |
