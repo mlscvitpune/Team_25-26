@@ -45,7 +45,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **Neeraj Pathak** | **Lead**   | [**GitHub**](https://github.com/Neerajpathak07) | [**LinkedIn**](https://www.linkedin.com/in/neeraj-pathak-527a682a9/) | [**Twitter**]() | [**Other Links**]() |
-| **Tanishq Thuse** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Tanishq Thuse** | **Lead**   | [**GitHub**](https://github.com/TanishqThuse/) | [**LinkedIn**](https://www.linkedin.com/in/tanishq-thuse-32472b248/) | [**Twitter**](https://x.com/tanishq552005) | [**Other Links**](https://tanishq-thuse-portfolio.vercel.app/) |
 | Srujal Vispute | Coordinator  | [GitHub](https://github.com/Srujal29) | [LinkedIn](www.linkedin.com/in/srujal-vispute-853754318) | [Twitter]() | [Other Links](https://leetcode.com/u/srujal29/) |
 | Sukhada Raut | Coordinator  | [GitHub](https://github.com/sukhadaraut323) | [LinkedIn](www.linkedin.com/in/sukhada-raut-102351339) | [Twitter]() | [Other Links]() |
 | Aditya Bavadekar | Coordinator  | [GitHub](https://github.com/AdityaBavadekar/) | [LinkedIn](https://www.linkedin.com/in/adityabavadekar/) | [Twitter](https://x.com/sshaditya) | [Hugging Face](https://huggingface.co/AdityaBavadekar) |
