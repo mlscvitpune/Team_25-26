@@ -169,8 +169,8 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
-| **Dhirendra Gundre** | **Lead**   | [GitHub](https://github.com/dhirendrag) | [LinkedIn](https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) | [Twitter](https://x.com/dfordhirendra) |
-| **Radha Waman** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| **Dhirendra Gundre** | **Lead**   | [**GitHub**](https://github.com/dhirendrag) | [**LinkedIn**]((https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) | [**Twitter**](https://x.com/dfordhirendra) | [**Other Links**]() |
+| **Radha Waman** | **Lead**   | [**GitHub**](https://github.com/radhaswaman) | [**LinkedIn**](https://linkedin.com/in/radhawaman) | [**Twitter**]() | [**Other Links**]() |
 | Nikhil Shah | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Shreyans Jain | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Prasnna Mehkarkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
