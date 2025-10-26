@@ -39,73 +39,91 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Web Development
 
-| Name              | Role        | GitHub                                        | LinkedIn                                                           | Twitter                                | Other Links                                            |
-| ----------------- | ----------- | --------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------ |
-| **Neeraj Pathak** | **Lead**    | [**GitHub**]()                                | [**LinkedIn**]()                                                   | [**Twitter**]()                        | [**Other Links**]()                                    |
-| **Tanishq Thuse** | **Lead**    | [**GitHub**]()                                | [**LinkedIn**]()                                                   | [**Twitter**]()                        | [**Other Links**]()                                    |
-| Srujal Vispute    | Coordinator | [GitHub](https://github.com/Srujal29)         | [LinkedIn](www.linkedin.com/in/srujal-vispute-853754318)           | [Twitter]()                            | [Other Links](https://leetcode.com/u/srujal29/)        |
-| Sukhada Raut      | Coordinator | [GitHub](https://github.com/sukhadaraut323)   | [LinkedIn](www.linkedin.com/in/sukhada-raut-102351339)             | [Twitter]()                            | [Other Links]()                                        |
-| Aditya Bavadekar  | Coordinator | [GitHub](https://github.com/AdityaBavadekar/) | [LinkedIn](https://www.linkedin.com/in/adityabavadekar/)           | [Twitter](https://x.com/sshaditya)     | [Hugging Face](https://huggingface.co/AdityaBavadekar) |
-| Vikrant Thakur    | Coordinator | [GitHub](https://github.com/Vikrant-K-Thakur) | [LinkedIn](https://www.linkedin.com/in/vikrant-thakur-043279362/)  | [Twitter]()                            | [Other Links]()                                        |
-| Sanskruti Sathe   | Coordinator | [GitHub](https://github.com/sanscraftscodes)  | [LinkedIn](https://www.linkedin.com/in/sanskruti-sathe-527253379/) | [Twitter]()                            | [Other Links]()                                        |
-| Prashik Sasane    | Coordinator | [GitHub](https://github.com/Prashik-Sasane)   | [LinkedIn](https://www.linkedin.com/in/prashik-sasane-2545b12b1/)  | [Twitter](https://x.com/SasanePrashik) | [Other Links]()                                        |
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **Neeraj Pathak** | **Lead**   | [**GitHub**](https://github.com/Neerajpathak07) | [**LinkedIn**](https://www.linkedin.com/in/neeraj-pathak-527a682a9/) | [**Twitter**]() | [**Other Links**]() |
+| **Tanishq Thuse** | **Lead**   | [**GitHub**](https://github.com/TanishqThuse/) | [**LinkedIn**](https://www.linkedin.com/in/tanishq-thuse-32472b248/) | [**Twitter**](https://x.com/tanishq552005) | [**Other Links**](https://tanishq-thuse-portfolio.vercel.app/) |
+| Srujal Vispute | Coordinator  | [GitHub](https://github.com/Srujal29) | [LinkedIn](www.linkedin.com/in/srujal-vispute-853754318) | [Twitter]() | [Other Links](https://leetcode.com/u/srujal29/) |
+| Sukhada Raut | Coordinator  | [GitHub](https://github.com/sukhadaraut323) | [LinkedIn](www.linkedin.com/in/sukhada-raut-102351339) | [Twitter]() | [Other Links]() |
+| Aditya Bavadekar | Coordinator  | [GitHub](https://github.com/AdityaBavadekar/) | [LinkedIn](https://www.linkedin.com/in/adityabavadekar/) | [Twitter](https://x.com/sshaditya) | [Hugging Face](https://huggingface.co/AdityaBavadekar) |
+| Vikrant Thakur | Coordinator  | [GitHub](https://github.com/Vikrant-K-Thakur) | [LinkedIn](https://www.linkedin.com/in/vikrant-thakur-043279362/) | [Twitter]() | [Other Links]() |
+| Sanskruti Sathe | Coordinator  | [GitHub](https://github.com/sanscraftscodes) | [LinkedIn](https://www.linkedin.com/in/sanskruti-sathe-527253379/) | [Twitter]() | [Other Links]() |
+| Prashik Sasane | Coordinator  | [GitHub](https://github.com/Prashik-Sasane) | [LinkedIn](https://www.linkedin.com/in/prashik-sasane-2545b12b1/) | [Twitter](https://x.com/SasanePrashik) | [Other Links]() |
+
+
+
+
+
 
 ---
 
 ### Web 3.0
 
-| Name                 | Role        | GitHub                                             | LinkedIn                                                           | Twitter                                      | Other Links                                              |
-| -------------------- | ----------- | -------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------- | -------------------------------------------------------- |
-| **Ayush Srivastava** | **Lead**    | [**GitHub**](https://github.com/ayushsrivastava55) | [**LinkedIn**](https://www.linkedin.com/in/ayushsrivastava-codes/) | [**Twitter**](https://x.com/localhost_ayush) | [**Portfolio**](https://portfolio-ayush-iota.vercel.app) |
-| Shreyas Sovani       | Coordinator | [GitHub]()                                         | [LinkedIn]()                                                       | [Twitter]()                                  | [Other Links]()                                          |
-| Swanandi Bhende      | Coordinator | [GitHub](https://github.com/swanandi-bhende)       | [LinkedIn](https://www.linkedin.com/in/swanandibhende/)            | [Twitter](https://x.com/swanandibhende)      | [Other Links]()                                          |
-| Prajwal Bhosale      | Coordinator | [GitHub]()                                         | [LinkedIn]()                                                       | [Twitter]()                                  | [Other Links]()                                          |
-| Kunal Bavdhane       | Coordinator | [GitHub]()                                         | [LinkedIn]()                                                       | [Twitter]()                                  | [Other Links]()                                          |
-| Kavyanjali Gavate    | Coordinator | [GitHub]()                                         | [LinkedIn]()                                                       | [Twitter]()                                  | [Other Links]()                                          |
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **Ayush Srivastava** | **Lead**   | [**GitHub**](https://github.com/ayushsrivastava55) | [**LinkedIn**](https://www.linkedin.com/in/ayushsrivastava-codes/) | [**Twitter**](https://x.com/localhost_ayush) | [**Portfolio**](https://portfolio-ayush-iota.vercel.app) |
+| Shreyas Sovani | Coordinator  | [GitHub](https://github.com/shreyas-sovani) | [LinkedIn](https://www.linkedin.com/in/sovanishreyas/) | [Twitter](https://x.com/sovanishreyas) | [Bento](https://bento.me/sovanishreyas) |
+| Swanandi Bhende | Coordinator  | [GitHub](https://github.com/swanandi-bhende) | [LinkedIn](https://www.linkedin.com/in/swanandibhende/) | [Twitter](https://x.com/swanandibhende) | [Other Links]() |
+| Prajwal Bhosale | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Kunal Bavdhane | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Kavyanjali Gavate | Coordinator  | [GitHub](https://github.com/kavyaaa55) | [LinkedIn](linkedin.com/in/kavyanjali-gavate-7a7900315) | [Twitter]() | [Other Links]() |
+
+
+
 
 ---
 
 ### App Development
 
-| Name               | Role        | GitHub                                         | LinkedIn                                                             | Twitter                                                                  | Other Links                                                   |
-| ------------------ | ----------- | ---------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| **Ninad Belorkar** | **Lead**    | [**GitHub**](https://github.com/ninadbelorkar) | [**LinkedIn**](https://www.linkedin.com/in/ninadbelorkar/)           | [**Twitter**](https://x.com/ninadbelorkar?t=y4r3cf6MMCL2UuGTrqeJeQ&s=08) | [**Other Links**]()                                           |
-| **Krishna Sadar**  | **Lead**    | [**GitHub**](https://github.com/KrishnaSadar)  | [**LinkedIn**](https://www.linkedin.com/in/krishna-sadar-7238682b3/) | [**Twitter**]()                                                          | [**Codeforces**](https://codeforces.com/profile/IamDragonite) |
-| Ajinkya Ghule      | Coordinator | [GitHub](https://github.com/GhuleAjinkya)      | [LinkedIn](https://www.linkedin.com/in/ajinkya-ghule-90b83a329/)     | [Twitter]()                                                              | [Other Links]()                                               |
-| Nilesh Sabale      | Coordinator | [GitHub]()                                     | [LinkedIn]()                                                         | [Twitter]()                                                              | [Other Links]()                                               |
-| Alesha Mulla       | Coordinator | [GitHub](https://github.com/muggloaf)          | [LinkedIn](https://www.linkedin.com/in/alesha-mulla-263827329/)      | [Twitter]()                                                              | [Instagram](https://www.instagram.com/alesha.gif/)            |
-| Abhishek Saraf     | Coordinator | [GitHub](https://github.com/abhi-dev99)        | [LinkedIn](https://www.linkedin.com/in/abhishek--saraf/)             | [Twitter]()                                                              | [Instagram](https://www.instagram.com/abhi.____.s)            |
-| Kaivalya Beohar    | Coordinator | [GitHub](https://github.com/kohesee)           | [LinkedIn](https://www.linkedin.com/in/kaivalya-beohar/)             | [Twitter](https://x.com/kohese)                                          | [Codolio](https://codolio.com/profile/kohese)                 |
-| Ruhan Sande        | Coordinator | [GitHub](https://github.com/Ruhdee)            | [LinkedIn](https://www.linkedin.com/in/ruhaan-sande-566030313)       | [Twitter](https://x.com/Ruhaan_64)                                       | [Leetcode](https://leetcode.com/u/Ruhaan_S/)                  |
+
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **Ninad Belorkar** | **Lead**   | [**GitHub**](https://github.com/ninadbelorkar) | [**LinkedIn**](https://www.linkedin.com/in/ninadbelorkar/) | [**Twitter**](https://x.com/ninadbelorkar?t=y4r3cf6MMCL2UuGTrqeJeQ&s=08) | [**Other Links**]() |
+| **Krishna Sadar** | **Lead**   | [**GitHub**](https://github.com/KrishnaSadar) | [**LinkedIn**](https://www.linkedin.com/in/krishna-sadar-7238682b3/) | [**Twitter**]() | [**Codeforces**](https://codeforces.com/profile/IamDragonite) |
+| Ajinkya Ghule | Coordinator  | [GitHub](https://github.com/GhuleAjinkya) | [LinkedIn](https://www.linkedin.com/in/ajinkya-ghule-90b83a329/) | [Twitter]() | [Other Links]() |
+| Nilesh Sabale | Coordinator  | [GitHub](https://github.com/nilesh-sabale) | [LinkedIn](https://www.linkedin.com/in/nilesh-sabale-687896259) | [Twitter]() | [Other Links]() |
+| Alesha Mulla | Coordinator  | [GitHub](https://github.com/muggloaf) | [LinkedIn](https://www.linkedin.com/in/alesha-mulla-263827329/) | [Twitter]() | [Instagram](https://www.instagram.com/alesha.gif/) |
+| Abhishek Saraf | Coordinator  | [GitHub](https://github.com/abhi-dev99) | [LinkedIn](https://www.linkedin.com/in/abhishek--saraf/) | [Twitter]() | [Instagram](https://www.instagram.com/abhi.____.s) |
+| Kaivalya Beohar | Coordinator  | [GitHub](https://github.com/kohesee) | [LinkedIn](https://www.linkedin.com/in/kaivalya-beohar/) | [Twitter](https://x.com/kohese) | [Codolio](https://codolio.com/profile/kohese) |
+| Ruhan Sande | Coordinator  | [GitHub](https://github.com/Ruhdee) | [LinkedIn](https://www.linkedin.com/in/ruhaan-sande-566030313) | [Twitter](https://x.com/Ruhaan_64) | [Leetcode](https://leetcode.com/u/Ruhaan_S/) |
+
+
+
 
 ---
 
 ### AI/ML
 
-| Name             | Role        | GitHub                                         | LinkedIn                                                           | Twitter                             | Other Links                                                    |
-| ---------------- | ----------- | ---------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------- | -------------------------------------------------------------- |
-| **Mayenk Joshi** | **Lead**    | [**GitHub**](https://github.com/MayenkJoshi37) | [**LinkedIn**](https://www.linkedin.com/in/mayenk-joshi)           | [**Twitter**]()                     | [**Other Links**]()                                            |
-| **Yash Gunjal**  | **Lead**    | [**GitHub**](https://github.com/yashgunjal95)  | [**LinkedIn**](https://www.linkedin.com/in/yash-gunjal-473422288/) | [**Twitter**]()                     | [**Other Links**]()                                            |
-| Pratyay Patel    | Coordinator | [GitHub](https://github.com/Pratyay-Patel)     | [LinkedIn](https://www.linkedin.com/in/pratyay-patel-9aa7672a3/)   | [Twitter](https://x.com/Pratyay_17) | [LeetCode](https://leetcode.com/u/s40JX5K7fp/)                 |
-| Ameya Borkar     | Coordinator | [GitHub]()                                     | [LinkedIn]()                                                       | [Twitter]()                         | [Other Links]()                                                |
-| Aryan Ghadekar   | Coordinator | [GitHub]()                                     | [LinkedIn]()                                                       | [Twitter]()                         | [Other Links]()                                                |
-| Vanshika Pandey  | Coordinator | [GitHub]()                                     | [LinkedIn]()                                                       | [Twitter]()                         | [Other Links]()                                                |
-| Anand Nair       | Coordinator | [GitHub](https://github.com/Anand-2006/)       | [LinkedIn](https://www.linkedin.com/in/heyy-anand-here/)           | [Twitter]()                         | [HackerRank](https://www.hackerrank.com/profile/anandnair2626) |
-| Diya Wani        | Coordinator | [GitHub]()                                     | [LinkedIn]()                                                       | [Twitter]()                         | [Other Links]()                                                |
+
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **Mayenk Joshi** | **Lead**   | [**GitHub**](https://github.com/MayenkJoshi37) | [**LinkedIn**](https://www.linkedin.com/in/mayenk-joshi) | [**Twitter**]() | [**Other Links**]() |
+| **Yash Gunjal** | **Lead**   | [**GitHub**](https://github.com/yashgunjal95) | [**LinkedIn**](https://www.linkedin.com/in/yash-gunjal-473422288/) | [**Twitter**]() | [**Other Links**]() |
+| Pratyay Patel | Coordinator  | [GitHub](https://github.com/Pratyay-Patel) | [LinkedIn](https://www.linkedin.com/in/pratyay-patel-9aa7672a3/) | [Twitter](https://x.com/Pratyay_17) | [LeetCode](https://leetcode.com/u/s40JX5K7fp/) |
+| Ameya Borkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Aryan Ghadekar | Coordinator  | [GitHub](https://github.com/Aryan-Ghadekar) | [LinkedIn](www.linkedin.com/in/aryan-ghadekar-11417a312) | [Twitter]() | [Other Links]() |
+| Vanshika Pandey | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Anand Nair | Coordinator  | [GitHub](https://github.com/Anand-2006/) | [LinkedIn](https://www.linkedin.com/in/heyy-anand-here/) |  [Twitter]() | [HackerRank](https://www.hackerrank.com/profile/anandnair2626) |
+| Diya Wani | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 
 ---
 
 ### Cloud Computing
 
-| Name                  | Role        | GitHub                                    | LinkedIn                                                               | Twitter                                  | Other Links                                                 |
-| --------------------- | ----------- | ----------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------- |
-| **Animesh Nilawar**   | **Lead**    | [**GitHub**]()                            | [**LinkedIn**]()                                                       | [**Twitter**]()                          | [**Other Links**]()                                         |
-| **Adwyte Karandikar** | **Lead**    | [**GitHub**](https://github.com/adwyte)   | [**LinkedIn**](https://linkedin.com/in/adwyte)                         | [**Twitter**](https://x.com/adwyte05)    | [**Portfolio**](https://adwyte.vercel.app)                  |
-| Ayush Andure          | Coordinator | [GitHub](https://github.com/ayushhhhyqxv) | [LinkedIn](www.linkedin.com/in/ayush-andure-812670328)                 | [Twitter](https://x.com/_Ayush29)        | [GitLab](https://gitlab.com/ayushhhhyqxv)                   |
-| Anup Dubey            | Coordinator | [GitHub](https://github.com/Anup1dubey)   | [LinkedIn](https://www.linkedin.com/in/anup-dubey-646433328/)          | [Twitter](https://x.com/AnupDubey680002) | [Leetcode](https://leetcode.com/u/Anupdubey/)               |
-| Mustafa Nazir         | Coordinator | [GitHub]()                                | [LinkedIn]()                                                           | [Twitter]()                              | [Other Links]()                                             |
-| Siddhartha Kushwaha   | Coordinator | [GitHub](https://github.com/DevSidd2006)  | [LinkedIn](https://www.linkedin.com/in/siddhartha-kushwaha-2649bb334/) | [Twitter](https://x.com/arcane__coder)   | [LeetCode](https://leetcode.com/u/dev_Siddhartha_Kushwaha/) |
-| Omkar Patil           | Coordinator | [GitHub]()                                | [LinkedIn]()                                                           | [Twitter]()                              | [Other Links]()                                             |
+
+
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **Animesh Nilawar** | **Lead**   | [**GitHub**](https://github.com/AnimeshNilawar) | [**LinkedIn**](https://www.linkedin.com/in/animesh-nilawar) | [**Twitter**]() | [**Other Links**]() |
+| **Adwyte Karandikar** | **Lead**   | [**GitHub**](https://github.com/adwyte) | [**LinkedIn**](https://linkedin.com/in/adwyte) | [**Twitter**](https://x.com/adwyte05) | [**Portfolio**](https://adwyte.vercel.app) |
+| Ayush Andure | Coordinator  | [GitHub](https://github.com/ayushhhhyqxv) | [LinkedIn](www.linkedin.com/in/ayush-andure-812670328) | [Twitter](https://x.com/_Ayush29) | [GitLab](https://gitlab.com/ayushhhhyqxv) |
+| Anup Dubey | Coordinator  | [GitHub](https://github.com/Anup1dubey) | [LinkedIn](https://www.linkedin.com/in/anup-dubey-646433328/) | [Twitter](https://x.com/AnupDubey680002) | [Leetcode](https://leetcode.com/u/Anupdubey/) |
+| Mustafa Nazir | Coordinator  | [GitHub](https://github.com/MustafaNazir11) | [LinkedIn](https://www.linkedin.com/in/mustafanazir11/) | [Twitter](https://x.com/TheMustafaNazir) | [Google Developer](https://g.dev/MustafaNazir) |
+| Siddhartha Kushwaha | Coordinator  | [GitHub](https://github.com/DevSidd2006) | [LinkedIn](https://www.linkedin.com/in/siddhartha-kushwaha-2649bb334/) | [Twitter](https://x.com/arcane__coder) | [LeetCode](https://leetcode.com/u/dev_Siddhartha_Kushwaha/) |
+| Omkar Patil | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+
+
+
 
 ---
 
@@ -127,30 +145,35 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 
 ### Content
 
-| Name              | Role        | GitHub                                   | LinkedIn                                               | Twitter         | Other Links                                          |
-| ----------------- | ----------- | ---------------------------------------- | ------------------------------------------------------ | --------------- | ---------------------------------------------------- |
-| **Ashvini Bhure** | **Lead**    | [**GitHub**]()                           | [**LinkedIn**]()                                       | [**Twitter**]() | [**Other Links**]()                                  |
-| Abhijit Barad     | Coordinator | [GitHub]()                               | [LinkedIn]()                                           | [Twitter]()     | [Other Links]()                                      |
-| Alisha Savant     | Coordinator | [GitHub]()                               | [LinkedIn]()                                           | [Twitter]()     | [Other Links]()                                      |
-| Pratham Shelke    | Coordinator | [GitHub]()                               | [LinkedIn]()                                           | [Twitter]()     | [Other Links]()                                      |
-| Arnav Gharpure    | Coordinator | [GitHub](https://github.com/007Arnav007) | [LinkedIn](www.linkedin.com/in/arnav-gharpure-007x007) | [Twitter]()     | [Other Links](https://arnavwritesgood.blogspot.com/) |
+
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **Ashvini Bhure** | **Lead**   | [**GitHub**](https://github.com/A01vini) | [LinkedIn](www.linkedin.com/in/ashvini-bhure-a1183a223) | [**Twitter**]() | [**Other Links**]() |
+| Abhijit Barad | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Alisha Savant | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Pratham Shelke | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Arnav Gharpure | Coordinator  | [GitHub](https://github.com/007Arnav007) | [LinkedIn](www.linkedin.com/in/arnav-gharpure-007x007) | [Twitter]() | [Other Links](https://arnavwritesgood.blogspot.com/) |
+
 
 ---
 
 ### Event Management
 
-| Name                 | Role        | GitHub                                    | LinkedIn                                                             | Twitter                                  | Other Links         |
-| -------------------- | ----------- | ----------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------- | ------------------- |
-| **Dhirendra Gundre** | **Lead**    | [GitHub](https://github.com/dhirendrag)   | [LinkedIn](https://www.linkedin.com/in/dhirendra-gundre-0702332ba/)  | [Twitter](https://x.com/dfordhirendra)   |
-| **Radha Waman**      | **Lead**    | [**GitHub**]()                            | [**LinkedIn**]()                                                     | [**Twitter**]()                          | [**Other Links**]() |
-| Nikhil Shah          | Coordinator | [GitHub]()                                | [LinkedIn]()                                                         | [Twitter]()                              | [Other Links]()     |
-| Shreyans Jain        | Coordinator | [GitHub]()                                | [LinkedIn]()                                                         | [Twitter]()                              | [Other Links]()     |
-| Prasnna Mehkarkar    | Coordinator | [GitHub]()                                | [LinkedIn]()                                                         | [Twitter]()                              | [Other Links]()     |
-| Parth Sardeshmukh    | Coordinator | [GitHub](https://github.com/ParthTimeDEV) | [LinkedIn](https://www.linkedin.com/in/parth-sardeshmukh-a49420336/) | [Twitter](https://x.com/AskParthAnythin) | [Other Links]()     |
-| Madhav Baviskar      | Coordinator | [GitHub]()                                | [LinkedIn]()                                                         | [Twitter]()                              | [Other Links]()     |
-| Indrajeet Badhel     | Coordinator | [GitHub]()                                | [LinkedIn]()                                                         | [Twitter]()                              | [Other Links]()     |
-| Yuganti Hatwar       | Coordinator | [GitHub]()                                | [LinkedIn]()                                                         | [Twitter]()                              | [Other Links]()     |
-| Shrisha Goski        | Coordinator | [GitHub]()                                | [LinkedIn]()                                                         | [Twitter]()                              | [Other Links]()     |
+
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **Dhirendra Gundre** | **Lead**   | [**GitHub**](https://github.com/dhirendrag) | [**LinkedIn**]((https://www.linkedin.com/in/dhirendra-gundre-0702332ba/) | [**Twitter**](https://x.com/dfordhirendra) | [**Other Links**]() |
+| **Radha Waman** | **Lead**   | [**GitHub**](https://github.com/radhaswaman) | [**LinkedIn**](https://linkedin.com/in/radhawaman) | [**Twitter**]() | [**Other Links**]() |
+| Nikhil Shah | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Shreyans Jain | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Prasnna Mehkarkar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Parth Sardeshmukh | Coordinator  | [GitHub](https://github.com/ParthTimeDEV) | [LinkedIn](https://www.linkedin.com/in/parth-sardeshmukh-a49420336/) | [Twitter](https://x.com/AskParthAnythin) | [Other Links]() |
+| Madhav Baviskar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Indrajeet Badhel | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Yuganti Hatwar | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Shrisha Goski | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+
+
 
 ---
 
@@ -173,7 +196,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name                | Role        | GitHub                                        | LinkedIn                                                                                                                                     | Twitter                                       | Other Links         |
 | ------------------- | ----------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------- |
 | **Hardik Rokde**    | **Lead**    | [**GitHub**](https://github.com/Hardik174)    | [**LinkedIn**](https://www.linkedin.com/in/hardik-rokde-844a6528a/)                                                                          | [**Twitter**](https://x.com/Hardik_Rokde17)   | [**Other Links**]() |
-| **Rohit Jadhav**    | **Lead**    | [**GitHub**]()                                | [**LinkedIn**]()                                                                                                                             | [**Twitter**]()                               | [**Other Links**]() |
+| **Rohit Jadhav**    | **Lead**    | [**GitHub**]((https://github.com/rohitjad2k5)                                | [**LinkedIn**](https://www.linkedin.com/in/rohit-jadhav-712013318/)                                                                                                                             | [**Twitter**]()                               | [**Other Links**]() |
 | Ishan Pande         | Coordinator | [GitHub](https://github.com/Ishan070506)      | [LinkedIn](https://www.linkedin.com/in/ishan-pande-b530a532a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [Twitter](https://x.com/ishanpande76431?s=21) | [Other Links]()     |
 | Aryan Choudhari     | Coordinator | [GitHub]()                                    | [LinkedIn]()                                                                                                                                 | [Twitter]()                                   | [Other Links]()     |
 | Aditya Chimurkar    | Coordinator | [GitHub]()                                    | [LinkedIn]()                                                                                                                                 | [Twitter]()                                   | [Other Links]()     |
